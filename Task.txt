@@ -1,2 +1,16 @@
 Day1:-
  Take values of length and breadth of a rectangle from user.Find area of recatangle.
+DAY2:
+1: Write a program to take a input of student mark and print Grade
+Mark Range	Grade
+100-91    A+
+90-81     A
+80-71     B+
+70-61     B
+60-51     C+
+50-41     C
+40-0      Fail
+
+2:Take 2 int values from user and print greatest among them
+3: Take values of length and breadth of a rectangle from user and check if it is square or not.
+4: Take input of age of 3 people by user and determine oldest and youngest among them.
